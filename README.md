@@ -11,3 +11,5 @@ The first one to get 3-in-a-row wins!
 
 
 Have fun! :DD
+
+Also you might get a notifcation saying that the program is a virus, ignore it because it's a false positive
